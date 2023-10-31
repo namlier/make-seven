@@ -1,5 +1,5 @@
 # About Make Seven
-Fast, expressive, robust, elegant and progressive way to make<br/>
+Fast, expressive, robust, <i>elegant</i> and <b>p</b>rogressive way to make<br/>
  a variable that contains positive odd number 7 in string format.
 ## Installation
 1. composer require namlier/make-seven
