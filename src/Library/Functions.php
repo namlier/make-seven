@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use Namlier\MakeSeven\FunctionsExceptions\CannotBeDoneException;
+use Namlier\MakeSeven\Library\FunctionsExceptions\CannotBeDoneException;
 
 if (!function_exists('Namlier\MakeSeven\sevenify')) {
     /**

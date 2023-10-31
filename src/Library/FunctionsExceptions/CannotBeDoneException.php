@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Namlier\MakeSeven\FunctionsExceptions;
+namespace Namlier\MakeSeven\Library\FunctionsExceptions;
 
 use Exception;
 
