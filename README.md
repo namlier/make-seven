@@ -1,4 +1,6 @@
-# make-seven
+# About Make Seven
+Fast, expressive, robust, elegant and progressive way to make<br/>
+ a variable that contains positive odd number 7 in string format.
 ## Installation
 1. composer require namlier/make-seven
 2. Create a file any-name.php with content:
