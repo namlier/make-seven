@@ -14,4 +14,4 @@ echo $result;
 3. From a terminal: php any-name.php
 4. Enjoy to get the "seven" <br/>
 <i>Optionally:</i>
-If it is your first package in the project, simply add ```PHP require __DIR__ . '/vendor/autoload.php'; ``` at the beginning of <b>any-name.php</b> file.
+If it is your first package in the project, simply add ``` require __DIR__ . '/vendor/autoload.php'; ``` at the beginning of <b>any-name.php</b> file.
